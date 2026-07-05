@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me
 
 Hi, I'm **Vipin Rajput**, a Software Test Engineer with hands-on experience in **Manual Testing, Automation Testing, API Testing, Database Validation, and Performance Testing**. I enjoy ensuring software quality by identifying issues early, automating repetitive test scenarios, and collaborating with development teams to deliver reliable products.
 
