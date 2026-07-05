@@ -1,5 +1,36 @@
 # 💫 About Me:
-I am Software Tester with 1 year of hands-on experience in Manual Testing, Automation Testing, API Testing, and Database Validation across enterprise-level ERP, web, and mobile (iOS & Android) applications. Skilled in Selenium WebDriver, Java, TestNG, SQL, Postman, and Apache JMeter. Proficient in Functional, Regression, Integration, System, Smoke, Sanity, Cross-Browser, and UI Testing. Experienced in Agile (Scrum) environments across complete SDLC and STLC with strong expertise in Defect Lifecycle Management, Test Case Design, Bug Reporting, and automation framework development using Page Object Model (POM). Comfortable handling direct client discussions on requirements and hand-off. Passionate about building reliable software systems and growing toward SDET / QA Engineering roles.<br>TECHNICAL SKILLS<br>Programming and Database<br>Java, JavaScript, SQL<br>Automation Testing<br>Selenium WebDriver, TestNG, Maven, Page Object Model (POM), Data-Driven Testing<br>API Testing<br>Postman, REST Assured<br>Performance Testing<br>Apache JMeter (Load, Stress, Soak, Endurance)<br>Testing Methodologies<br>Functional, Regression, Integration, System, Smoke, Sanity, Cross-Browser, UI, Mobile, Exploratory Testing<br>Database Testing<br>SQL Queries, Backend Validation, Data Integrity Verification<br>Tools and Platforms<br>Git, GitHub, JIRA, Chrome DevTools, Huly, Swagger<br>QA Process & Frameworks<br>SDLC, STLC, Agile (Scrum), Defect Lifecycle, Test Planning, Bug Reporting, Test Case Management<br>Additional Tech<br>CI/CD basics (GitHub Actions), GitHub Copilot, GenAI for testing<br>PROFESSIONAL EXPERIENCE<br>Edunext Technologies Pvt. Ltd., Noida, Uttar Pradesh<br>Software Tester | Aug 2025 – Present<br>1. Test Execution (35% Defect Reduction)<br>Performed testing across 3 ERP platforms with 150+ test cases per sprint, reducing post-release defects by 35% within 3 months.<br>2. Workflow Validation (100% Coverage)<br>Owned testing for 12+ modules including Examination and Asset Management, achieving 100% coverage with zero critical production escapes.<br>3. Defect Lifecycle Management (1,150+ Bugs | 90% Closure)<br>Authored 120+ test cases; tracked 1,150+ bugs via Huly; achieved 90% pre-production closure with under 4 hours fix verification.<br>4. Database Validation (100% Accuracy | 1500+ Records)<br>Ran 35+ SQL queries validating WDV/SLR depreciation, achieving 100% accuracy across 6 financial modules with 1500+ transactions.<br>5. API & Performance Testing (500+ Users | 98% Stability)<br>Tested 50+ REST endpoints via Postman; simulated 500+ concurrent users in JMeter, achieving 99.5% stability and sub-2 second response time.<br>6. Automation Framework (70% Reusability)<br>Built Selenium WebDriver + Java + TestNG scripts for 25+ workflows using POM, improving reusability by 70% and reducing maintenance by 50%.<br>7. Agile Delivery (8+ Releases | 95% On-Time)<br>Delivered 8+ production releases with 100% on-time completion under 4-hour SLA for hotfixes.<br>8. Cross-Browser Testing (100% Compatibility)<br>Conducted testing on Chrome, Firefox, Safari, and Edge, achieving 100% UI consistency across 20+ critical pages.<br>9. Production Hotfix Validation (Zero Escapes)<br>Validated 25+ production hotfixes with 100% success rate, ensuring zero critical defects reached end users.<br>10. Root Cause Analysis (50% Recurrence Reduction)<br>Performed RCA for 15+ critical bugs, implementing prevention strategies that reduced similar defect recurrence by 50%.<br>PROJECTS<br>Employee Portfolio Automation Suite | Selenium, Java, TestNG, Maven<br>11. 60% Regression Reduction<br>Built POM-based framework with data-driven testing, saving 40 hours per sprint in manual regression effort.<br>12. 67% Cycle Time Reduction<br>Automated 8 workflows including Attendance and Timetable verification, cutting regression cycle from 6 hours to 2 hours.<br>13. 95% Test Pass Rate:<br>Used TestNG assertions across 5 release cycles, achieving 95% pass rate and 40% less debugging time.<br>14. CI/CD Integration (100% Automated Triggers)<br>Configured GitHub Actions to trigger automation suite on every code push, eliminating manual intervention.<br>CERTIFICATIONS and ACHIEVEMENTS<br>Elite Performer – Edunext Technologies Pvt. Ltd.<br>Awarded the Elite Performer award for demonstrating exceptional problem-solving skills and the ability to tackle complex, high-impact issues as a fresher, reflecting outstanding technical maturity beyond experience level.<br>Smart India Hackathon (75% Accuracy)<br>Led 6-member team to university-level selection for AI water well predictor achieving 85% prototype accuracy.<br>
+# 💫 About Me
+
+Hi, I'm **Vipin Rajput**, a Software Test Engineer with hands-on experience in **Manual Testing, Automation Testing, API Testing, Database Validation, and Performance Testing**. I enjoy ensuring software quality by identifying issues early, automating repetitive test scenarios, and collaborating with development teams to deliver reliable products.
+
+My primary automation stack includes **Java, Selenium WebDriver, TestNG, Maven, and the Page Object Model (POM)**. I also work with **Postman, REST Assured, SQL, Apache JMeter, Git, GitHub, JIRA, and CI/CD basics**, enabling me to contribute across the complete software testing lifecycle.
+
+I've worked on **ERP, web, and mobile (Android & iOS) applications**, performing Functional, Regression, Integration, System, Smoke, Sanity, Cross-Browser, UI, API, Database, and Performance Testing in Agile environments. I enjoy writing maintainable automation frameworks, validating backend data with SQL, and improving release quality through structured testing practices.
+
+Beyond testing, I'm continuously expanding my skills in **SDET practices, test automation frameworks, CI/CD, and AI-assisted testing**. I believe quality is built through curiosity, attention to detail, and continuous improvement.
+
+### 🚀 What I Work With
+
+* 🔹 Automation Testing (Selenium WebDriver, Java, TestNG, Maven)
+* 🔹 API Testing (Postman, REST Assured)
+* 🔹 Database Testing (SQL, Data Validation)
+* 🔹 Performance Testing (Apache JMeter)
+* 🔹 Manual Testing (Functional, Regression, Integration, System, UI)
+* 🔹 Agile (Scrum), SDLC, STLC, Defect Lifecycle
+* 🔹 Git, GitHub, JIRA, Swagger, Chrome DevTools
+
+### 🌱 Currently Learning
+
+* Advanced Selenium Framework Design
+* CI/CD for Test Automation
+* Docker & Jenkins
+* Playwright
+* AI-powered Test Automation
+
+### 🎯 Career Goal
+
+To grow into an **SDET / QA Automation Engineer** who builds scalable automation frameworks, integrates testing into CI/CD pipelines, and helps deliver high-quality software with confidence.
+.<br>
 
 
 ## 🌐 Socials:
